@@ -2,7 +2,7 @@
 Análisis de Datos sobre Salud del Sueño y Estilo de Vida
 Este proyecto realiza un análisis exploratorio de un conjunto de datos relacionado con la calidad del sueño y distintos factores del estilo de vida, con el objetivo de identificar patrones y relaciones entre variables como el género, la ocupación, la actividad física, el estrés y el índice de masa corporal (IMC).
 
-##Objetivos del análisis
+## Objetivos del análisis
 A partir del dataset **Sleep_health_and_lifestyle_dataset.csv**, buscamos responder las siguientes preguntas:
 
 1.¿Quiénes tienen peor calidad de sueño, hombres o mujeres?
@@ -15,7 +15,7 @@ A partir del dataset **Sleep_health_and_lifestyle_dataset.csv**, buscamos respon
 
 5.¿Cuál es la profesión con mayor nivel de estrés y mayor índice de masa corporal?
 
-##Dataset
+## Dataset
 El conjunto de datos contiene información de 374 personas, incluyendo variables como:
 
 *Género, Edad y Ocupación
@@ -30,7 +30,7 @@ El conjunto de datos contiene información de 374 personas, incluyendo variables
 
 *Trastornos del Sueño (si los hubiera)
 
-##Principales hallazgos
+## Principales hallazgos
 Las mujeres presentan, en promedio, una mejor calidad y duración del sueño que los hombres.
 
 La profesión influye notablemente: los Sales Representatives presentan la peor calidad de sueño y el mayor IMC promedio.
@@ -39,7 +39,7 @@ No se observa una relación consistente entre el nivel de actividad física y la
 
 Las profesiones con mayor nivel de estrés tienden a mostrar también una menor calidad de sueño.
 
-###Herramientas utilizadas
+### Herramientas utilizadas
 Python con bibliotecas como pandas y numpy para análisis y manipulación de datos.
 
 Transformaciones de columnas categóricas a valores numéricos para facilitar el análisis.
